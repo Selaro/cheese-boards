@@ -1,5 +1,5 @@
 const Sequelize = require("sequelize");
-const path = new require("path");
+const path = require("path");
 
 const sequelize = new Sequelize({
 
