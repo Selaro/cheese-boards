@@ -3,6 +3,7 @@ node_modules/
 .vscode
 .idea
 .env
+.db.sqlite-journal
 
 #sqlite
 *.sqlite
